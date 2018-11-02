@@ -26,27 +26,27 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-70afc2a6d0947e6f2781.js"
+    "url": "webpack-runtime-dd456cb087ffd901c966.js"
   },
   {
     "url": "app.4dc8e895189999153e61.css"
   },
   {
-    "url": "app-6b833e8984e352d9a8ea.js"
+    "url": "app-28da8feb546f5326bc3f.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-b0d108669893416c6280.js"
   },
   {
     "url": "index.html",
-    "revision": "6ba3be1c1bc9c3a45c461d14db33e7e8"
+    "revision": "da154b41558d31606c20ec25820bd7b3"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "fea6f135cc8c529f2e14cd9727f6f908"
+    "revision": "70e47b6b90c343905e689b2426a62f9e"
   },
   {
-    "url": "0-8b009b342ffca2058ef0.js"
+    "url": "0-de9b8905f09b12913b43.js"
   },
   {
     "url": "component---src-pages-index-js-db811d6eb32f228e735c.js"
@@ -77,7 +77,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gp-monopoly/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/tdc/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
