@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.68 311.81">
+  
+  <g>
+    <circle cx="175.12" cy="97.65" r="93" fill="#98d5f4"/>
+    <circle cx="310.43" cy="189.08" r="70.16" fill="#98d5f4"/>
+    <circle cx="195.65" cy="248.07" r="59.1" fill="#98d5f4"/>
+    <circle cx="58.8" cy="180.86" r="51.63" fill="#98d5f4"/>
+    <circle cx="101.29" cy="256.76" r="35.03" fill="#98d5f4"/>
+    <circle cx="34.14" cy="260.9" r="32.06" fill="#98d5f4"/>
+    <circle cx="175.12" cy="97.65" r="93" fill="#6186b6"/>
+    <circle cx="310.43" cy="189.08" r="70.16" fill="#6186b6" opacity="0.8"/>
+    <circle cx="195.65" cy="248.07" r="59.1" fill="#6186b6" opacity="0.6"/>
+    <circle cx="58.8" cy="180.86" r="51.63" fill="#6186b6" opacity="0.1"/>
+    <circle cx="101.29" cy="256.76" r="35.03" fill="#6186b6" opacity="0.4"/>
+    <circle cx="34.14" cy="260.9" r="32.06" fill="#6186b6" opacity="0.3"/>
+    <text transform="translate(143.29 129.02) rotate(-0.04)" font-size="29.66" fill="#e7f0f4"  letter-spacing="0.1em">歐盟</text>
+    <text transform="translate(139.65 89.47) rotate(-0.04) scale(0.83 1)" font-size="41.12" fill="#e7f0f4"  font-weight="700" letter-spacing="0.02em">30%</text>
+    <text transform="translate(278.03 225.63) rotate(-0.04)" font-size="29.66" fill="#e7f0f4"  letter-spacing="0.1em">北美</text>
+    <text transform="translate(277.95 188.45) rotate(-0.04) scale(0.83 1)" font-size="41.12" fill="#e7f0f4"  font-weight="700" letter-spacing="0.02em">22%</text>
+    <text transform="translate(170.52 273.41) rotate(-0.04)" font-size="25.02" fill="#e7f0f4"  letter-spacing="0.1em">中國</text>
+    <text transform="translate(163.88 245) rotate(-0.04) scale(0.83 1)" font-size="27.57" fill="#e7f0f4"  font-weight="700" letter-spacing="0.02em">18.7%</text>
+    <text transform="translate(33.63 204.59) rotate(-0.04)" font-size="22.84" fill="#e7f0f4"  letter-spacing="0.1em">日本</text>
+    <text transform="translate(29.15 178.96) rotate(-0.04) scale(0.83 1)" font-size="25.17" fill="#e7f0f4"  font-weight="700" letter-spacing="0.03em">15.7%</text>
+    <g>
+      <text transform="translate(84.04 273.47) rotate(-0.04)" font-size="15.94" fill="#e7f0f4"  letter-spacing="0.1em">東協</text>
+      <text transform="translate(84 254.88) rotate(-0.04) scale(0.83 1)" font-size="19.68" fill="#e7f0f4"  font-weight="700" letter-spacing="0.02em">7.2%</text>
+    </g>
+    <text transform="translate(18.22 275.86) rotate(-0.04)" font-size="14.85" fill="#e7f0f4"  letter-spacing="0.1em">其他</text>
+    <text transform="translate(15.73 259.37) rotate(-0.04) scale(0.83 1)" font-size="20.6" fill="#e7f0f4"  font-weight="700" letter-spacing="0.03em">6.4%</text>
+  </g>
+</svg>

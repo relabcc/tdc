@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 433 373">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 4" x1="5219.7" y1="256.23" x2="5445.7" y2="256.23" gradientTransform="matrix(-1, 0, 0, 1, 5637.7, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c2e4ed"/>
+      <stop offset="0.99" stop-color="#ecf6fc"/>
+    </linearGradient>
+    <linearGradient id="b" data-name="未命名漸層 6" x1="14.14" y1="305.42" x2="193" y2="305.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.99" stop-color="#ecf6fc"/>
+    </linearGradient>
+    <linearGradient id="c" x1="5484.7" y1="226.99" x2="5612.94" y2="226.99" xlink:href="#a"/>
+  </defs>
+  
+  <g style="isolation: isolate">
+    <g>
+      <path d="M425.74,326.11H9.5a9.5,9.5,0,0,0-9.5,9.5H0a9.5,9.5,0,0,0,9.5,9.5h11A11.5,11.5,0,0,1,32,356.61h0a11.5,11.5,0,0,0,11.5,11.5H410.73a8.17,8.17,0,0,0,8.25-7.47,8,8,0,0,0-8-8.53H397.74a5.65,5.65,0,0,1-5.71-5,5.49,5.49,0,0,1,5.47-6h28.24a7.26,7.26,0,0,0,7.26-7.26v-.48A7.26,7.26,0,0,0,425.74,326.11Z" fill="#6186b6"/>
+      <path d="M192,273.9a20.19,20.19,0,0,1,29.3-18,36.06,36.06,0,0,1,68.44.32,20.2,20.2,0,0,1,24.86,4.34A24.32,24.32,0,0,1,352.09,257c4.53,4.58,6.36,11.64,11.23,16,12.94,11.65,24-8.83,36.38-8.83A18.36,18.36,0,0,1,418,281.11H193.33A20.07,20.07,0,0,1,192,273.9Z" fill="url(#a)"/>
+      <path d="M193,319.4a16,16,0,0,0-23.19-14.26,28.54,28.54,0,0,0-54.16.25A16,16,0,0,0,96,308.83,19.25,19.25,0,0,0,66.3,306c-3.58,3.63-5,9.21-8.89,12.69-10.24,9.22-19-7-28.79-7a14.53,14.53,0,0,0-14.48,13.39H192A16.13,16.13,0,0,0,193,319.4Z" fill="url(#b)"/>
+      <path d="M300.07,162.79l7.68,12.8A66.43,66.43,0,0,1,317,215.05L302.14,368.61H289.72V183.49Z" fill="#1f2b60"/>
+      <polygon points="272.65 282.83 251.43 368.61 241.09 368.61 251.43 282.83 272.65 282.83" fill="#1f2b60"/>
+      <path d="M24.76,237a11.46,11.46,0,0,1,16.62-10.23,20.46,20.46,0,0,1,38.84.18,11.46,11.46,0,0,1,14.1,2.47,13.81,13.81,0,0,1,21.28-2c2.57,2.59,3.61,6.6,6.37,9.09,7.35,6.61,13.63-5,20.65-5a10.41,10.41,0,0,1,10.38,9.6H25.51A11.55,11.55,0,0,1,24.76,237Z" fill="url(#c)"/>
+      <g>
+        <path d="M331.35,68.79a22.21,22.21,0,0,1,8.06,1.51l16.49,6.44a22,22,0,0,1,7.28,4.66h-8.32l6.73,6.73H368a22.06,22.06,0,0,1,2,9.25l-38.68,15.13H97.55L21.88,83.92V68.79Z" fill="#fff"/>
+        <path d="M58.89,68.79,29.26,36A19.08,19.08,0,0,0,14,28.39H9.32a3.81,3.81,0,0,0-3.45,5.42l17.28,35Z" fill="#7cbce8"/>
+        <line x1="370" y1="97.38" x2="57.62" y2="97.38" fill="none" stroke="#9dc8df" stroke-miterlimit="10" stroke-width="1.6"/>
+        <polyline points="62.24 87.28 33.65 74.67 9.26 74.67 9.26 78.88 21.88 83.92" fill="#fff"/>
+        <g>
+          <rect x="313.66" y="81.4" width="4.2" height="7.57" transform="translate(631.53 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="306.93" y="81.4" width="4.2" height="7.57" transform="translate(618.07 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="300.21" y="81.4" width="4.2" height="7.57" transform="translate(604.62 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="293.48" y="81.4" width="4.2" height="7.57" transform="translate(591.16 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="286.75" y="81.4" width="4.2" height="7.57" transform="translate(577.71 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="280.03" y="81.4" width="4.2" height="7.57" transform="translate(564.26 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="273.3" y="81.4" width="4.2" height="7.57" transform="translate(550.8 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="266.57" y="81.4" width="4.2" height="7.57" transform="translate(537.35 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="259.84" y="81.4" width="4.2" height="7.57" transform="translate(523.89 170.36) rotate(-180)" fill="#bfe4f8"/>
+        </g>
+        <rect x="245.55" y="81.4" width="4.2" height="7.57" transform="translate(495.3 170.36) rotate(-180)" fill="#bfe4f8"/>
+        <g>
+          <rect x="230.41" y="81.4" width="4.2" height="7.57" transform="translate(465.03 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="223.69" y="81.4" width="4.2" height="7.57" transform="translate(451.58 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="216.96" y="81.4" width="4.2" height="7.57" transform="translate(438.12 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="210.23" y="81.4" width="4.2" height="7.57" transform="translate(424.67 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="203.51" y="81.4" width="4.2" height="7.57" transform="translate(411.22 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="196.78" y="81.4" width="4.2" height="7.57" transform="translate(397.76 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="190.05" y="81.4" width="4.2" height="7.57" transform="translate(384.31 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="183.32" y="81.4" width="4.2" height="7.57" transform="translate(370.85 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="176.6" y="81.4" width="4.2" height="7.57" transform="translate(357.4 170.36) rotate(-180)" fill="#bfe4f8"/>
+        </g>
+        <rect x="162.3" y="81.4" width="4.2" height="7.57" transform="translate(328.81 170.36) rotate(-180)" fill="#bfe4f8"/>
+        <g>
+          <rect x="146.33" y="81.4" width="4.2" height="7.57" transform="translate(296.86 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="139.6" y="81.4" width="4.2" height="7.57" transform="translate(283.4 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="126.14" y="81.4" width="4.2" height="7.57" transform="translate(256.49 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="119.42" y="81.4" width="4.2" height="7.57" transform="translate(243.04 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="112.69" y="81.4" width="4.2" height="7.57" transform="translate(229.59 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="105.96" y="81.4" width="4.2" height="7.57" transform="translate(216.13 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="99.24" y="81.4" width="4.2" height="7.57" transform="translate(202.68 170.36) rotate(-180)" fill="#bfe4f8"/>
+          <rect x="92.51" y="81.4" width="4.2" height="7.57" transform="translate(189.22 170.36) rotate(-180)" fill="#bfe4f8"/>
+        </g>
+        <rect x="78.21" y="81.4" width="4.2" height="7.57" transform="translate(160.63 170.36) rotate(-180)" fill="#bfe4f8"/>
+        <rect x="343.09" y="81.4" width="4.2" height="7.57" transform="translate(690.39 170.36) rotate(-180)" fill="#bfe4f8"/>
+        <polygon points="349.82 81.4 349.82 88.13 358.23 88.13 352.34 81.4 349.82 81.4" fill="#bfe4f8"/>
+        <path d="M354.86,81.4h8.32A22.2,22.2,0,0,1,368,88.13h-6.37Z" fill="#bfe4f8"/>
+        <polygon points="226.57 102.03 144.64 81.4 134.55 81.4 134.55 88.13 215.74 120.92 226.57 102.03" fill="#bfe4f8"/>
+        <path d="M211.49,101.16h21.21a6.53,6.53,0,0,1,6.53,6.53v7.11a6.53,6.53,0,0,1-6.53,6.53H211.49a0,0,0,0,1,0,0V101.16A0,0,0,0,1,211.49,101.16Z" transform="translate(450.74 222.5) rotate(-180)" fill="#7cbce8"/>
+        <rect x="230.41" y="100.36" width="9.25" height="20.56" transform="translate(470.08 221.28) rotate(-180)" fill="#6186b6"/>
+        <polyline points="62.24 87.28 33.65 74.67 9.26 74.67 9.26 78.88 21.88 83.92" fill="none" stroke="#9dc8df" stroke-miterlimit="10" stroke-width="1.6"/>
+      </g>
+      <polygon points="368.94 271.11 337.15 271.11 323 335.51 355.63 335.51 368.94 271.11" fill="#f7e197"/>
+      <polygon points="368.94 271.11 355.16 335.75 381.65 335.75 368.94 271.11" fill="#1f2b60"/>
+      <path d="M275.23,74.84l-5.17,15.52h4.14l.43,3a3.85,3.85,0,0,0,4.74,3.19h0l5.18,14.49h10.34L280.41,74.84Z" fill="#6186b6"/>
+      <polygon points="300.07 162.79 300.07 282.83 251.43 282.83 266.95 162.79 300.07 162.79" fill="#ec7163"/>
+      <rect x="210.04" y="169" width="79.68" height="7.24" fill="#1f2b60"/>
+      <path d="M284.55,111.06h-8.86a15.22,15.22,0,0,0-13.14,7.54h0A15.22,15.22,0,0,0,260.73,129L267,162.79h33.12l17.59-35.18,13.45,33.12-39.32,11.38,1,7.24,40.66-8.28a12.77,12.77,0,0,0,9.23-17.43l-14.38-34.39A13.35,13.35,0,0,0,316,111.06Z" fill="#fee195"/>
+      <path d="M204.54,336.35a28.85,28.85,0,0,1-15.26-25.5l.25-180.21A18.46,18.46,0,0,0,171,112.18l-73.92.28,5.31,3.41a33.3,33.3,0,0,1,15.29,28v159a43.67,43.67,0,0,0,21.92,37.87l8.83,5.06h73.84Z" fill="#c2e4ed"/>
+      <polyline points="352.51 351.11 368.41 271.64 336.62 271.64 319.67 351.11" fill="none" stroke="#1f2b60" stroke-miterlimit="10"/>
+      <line x1="368.94" y1="271.11" x2="384.83" y2="350.58" fill="none" stroke="#1f2b60" stroke-miterlimit="10"/>
+      <polygon points="292.82 179.35 279.37 179.35 279.37 173.14 292 172.11 292.82 179.35" fill="#6186b6"/>
+      <circle cx="283.5" cy="75.61" r="9.19" fill="#1f2b60"/>
+      <line x1="139" y1="158.11" x2="181" y2="158.11" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <line x1="139" y1="176.61" x2="181" y2="176.61" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <line x1="139" y1="195.11" x2="181" y2="195.11" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <line x1="139" y1="213.61" x2="181" y2="213.61" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <line x1="139" y1="232.11" x2="181" y2="232.11" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <line x1="139" y1="250.61" x2="181" y2="250.61" fill="none" stroke="#c2e4ed" stroke-miterlimit="10" stroke-width="1.22" style="mix-blend-mode: multiply"/>
+      <polygon points="238.91 144.11 231.01 144.11 233.23 169.05 238.91 169.05 244.59 169.05 246.81 144.11 238.91 144.11" fill="#7cbce8"/>
+      <rect x="216.69" y="153.99" width="11.85" height="14.81" fill="#6186b6"/>
+      <circle cx="214.04" cy="157.2" r="2.78" fill="none" stroke="#6186b6" stroke-miterlimit="10" stroke-width="1.33"/>
+    </g>
+  </g>
+</svg>
