@@ -5,7 +5,7 @@
       <stop offset="0.99" stop-color="#fff"/>
     </linearGradient>
   </defs>
-  
+  <title>retail</title>
   <g style="isolation: isolate">
     <g>
       <polygon points="3.08 45.17 55.34 23.4 55.34 74.2 35.74 65.86 3.08 45.17" fill="url(#a)"/>
@@ -35,16 +35,14 @@
       <line x1="124.29" y1="82.42" x2="125.74" y2="98.52" fill="none" stroke="#7cbce8" stroke-miterlimit="10" stroke-width="1.09" style="mix-blend-mode: multiply"/>
       <line x1="130.82" y1="82.42" x2="132.27" y2="98.52" fill="none" stroke="#7cbce8" stroke-miterlimit="10" stroke-width="1.09" style="mix-blend-mode: multiply"/>
       <line x1="3.08" y1="81.1" x2="108.68" y2="81.1" fill="none" stroke="#1b507b" stroke-miterlimit="10" stroke-width="0.68"/>
-      <rect x="7.61" y="138.51" width="32.61" height="115.49" fill="#6186b6"/>
-      <rect x="40.22" y="138.51" width="32.61" height="115.49" fill="#6186b6"/>
-      <rect x="72.83" y="138.51" width="32.61" height="115.49" fill="#6186b6"/>
+      <polygon points="58.01 138.51 32.81 138.51 7.61 138.51 7.61 254 32.81 254 58.01 254 83.21 254 83.21 138.51 58.01 138.51" fill="#6186b6"/>
       <rect x="105.44" y="138.51" width="32.61" height="115.49" fill="#7dc8c5"/>
       <rect x="138.04" y="138.51" width="32.61" height="115.49" fill="#7dc8c5"/>
       <rect x="84.04" y="136.82" width="84.92" height="88.31" transform="translate(-54.48 307.47) rotate(-90)" fill="#9ed7f5"/>
-      <text transform="translate(15.6 162.34) scale(0.83 1)" font-size="20.58" fill="#ecf6fc"  font-weight="700" letter-spacing="0.02em">45%</text>
-      <text transform="translate(89.2 156.68) scale(0.83 1)" font-size="14.35" fill="#1b507b"  font-weight="700" letter-spacing="0.03em">35%</text>
+      <text transform="translate(15.6 162.34) scale(0.83 1)" font-size="20.58" fill="#ecf6fc" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">45%</text>
+      <text transform="translate(89.2 156.68) scale(0.83 1)" font-size="14.35" fill="#1b507b" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.03em">35%</text>
       <rect x="109.51" y="192.86" width="33.97" height="88.31" transform="translate(-110.52 363.51) rotate(-90)" fill="#52bdbe"/>
-      <text transform="translate(89.2 237.07) scale(0.83 1)" font-size="14.35" fill="#fff"  font-weight="700" letter-spacing="0.03em">20%</text>
+      <text transform="translate(89.2 237.07) scale(0.83 1)" font-size="14.35" fill="#fff" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.03em">20%</text>
     </g>
   </g>
 </svg>

@@ -15,7 +15,7 @@
     </linearGradient>
     <linearGradient id="b" x1="845.52" y1="13.59" x2="845.52" y2="46.18" xlink:href="#a"/>
   </defs>
-  <title>wave</title>
+  
   <g>
     <path class="a" d="M0,40.69,33.18,8.78a31.46,31.46,0,0,1,45,1.38l28.09,30.53"/>
     <path class="b" d="M90.7,40.69l15.14-14.56a31.46,31.46,0,0,1,45,1.38l12.13,13.18"/>

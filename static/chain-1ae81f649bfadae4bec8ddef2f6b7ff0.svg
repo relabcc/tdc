@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 255">
-  
+  <title>chain</title>
   <g>
     <g>
       <g>
@@ -24,15 +24,13 @@
       <line x1="158.25" y1="41.68" x2="158.25" y2="105.73" fill="none" stroke="#1b507b" stroke-miterlimit="10" stroke-width="0.73"/>
       <rect x="107.51" y="98.63" width="62.01" height="7.1" fill="#1b507b"/>
     </g>
-    <rect x="6.48" y="139.51" width="32.61" height="115.49" fill="#6186b6"/>
-    <rect x="39.09" y="139.51" width="32.61" height="115.49" fill="#6186b6"/>
-    <rect x="71.7" y="139.51" width="32.61" height="115.49" fill="#6186b6"/>
+    <polygon points="54.73 139.51 30.61 139.51 6.48 139.51 6.48 255 30.61 255 54.73 255 78.86 255 78.86 139.51 54.73 139.51" fill="#6186b6"/>
     <rect x="104.3" y="139.51" width="32.61" height="115.49" fill="#7dc8c5"/>
     <rect x="136.91" y="139.51" width="32.61" height="115.49" fill="#7dc8c5"/>
-    <rect x="93.37" y="125.09" width="61.72" height="90.58" transform="translate(-46.15 294.61) rotate(-90)" fill="#9ed7f5"/>
-    <text transform="translate(16.74 163.34) scale(0.83 1)" font-size="20.58" fill="#ecf6fc"  font-weight="700" letter-spacing="0.03em">46%</text>
+    <rect x="97.62" y="120.84" width="53.22" height="90.58" transform="translate(-41.9 290.36) rotate(-90)" fill="#9ed7f5"/>
+    <text transform="translate(16.74 163.34) scale(0.83 1)" font-size="20.58" fill="#ecf6fc" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.03em">46%</text>
     <rect x="93.1" y="178.58" width="62.27" height="90.58" transform="translate(-99.63 348.1) rotate(-90)" fill="#52bdbe"/>
-    <text transform="translate(84.67 210.9) scale(0.83 1)" font-size="14.35" fill="#fff"  font-weight="700" letter-spacing="0.02em">28%</text>
-    <text transform="translate(84.67 157.68) scale(0.83 1)" font-size="14.35" fill="#1b507b"  font-weight="700" letter-spacing="0.02em">26%</text>
+    <text transform="translate(84.67 210.9) scale(0.83 1)" font-size="14.35" fill="#fff" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">28%</text>
+    <text transform="translate(84.67 157.68) scale(0.83 1)" font-size="14.35" fill="#1b507b" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">26%</text>
   </g>
 </svg>

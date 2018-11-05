@@ -4,7 +4,7 @@
       <path d="M168.78,25.38l-44.95,0H104.72c-3.87,0-7,3.8-7,8.5L97.7,71c0,4.69,3.13,8.5,7,8.5l61.84,0h2.22c3.86,0,7-3.81,7-8.5V33.89C175.77,29.19,172.64,25.38,168.78,25.38Z" fill="none"/>
     </clipPath>
   </defs>
-  
+  <title>agents</title>
   <g>
     <g>
       <rect x="0.9" y="32.57" width="129.6" height="79.47" fill="#b9c5d6"/>
@@ -37,15 +37,13 @@
       <path d="M168.78,25.38l-44.95,0H104.72c-3.87,0-7,3.8-7,8.5L97.7,71c0,4.69,3.13,8.5,7,8.5l61.84,0h2.22c3.86,0,7-3.81,7-8.5V33.89C175.77,29.19,172.64,25.38,168.78,25.38Z" fill="none"/>
     </g>
     <polygon points="107.29 74.39 107.29 85.71 117.76 75.81 107.29 74.39" fill="#9dcfef"/>
-    <rect x="0.25" y="139.46" width="32.61" height="115.49" fill="#6186b6"/>
-    <rect x="32.86" y="139.47" width="32.61" height="115.49" fill="#6186b6"/>
-    <rect x="65.47" y="139.48" width="32.61" height="115.49" fill="#6186b6"/>
+    <polygon points="65.49 139.48 32.88 139.46 0.27 139.45 0.23 254.94 32.84 254.95 65.44 254.96 98.05 254.97 98.1 139.49 65.49 139.48" fill="#6186b6"/>
     <rect x="98.07" y="139.5" width="32.61" height="115.49" fill="#7dc8c5"/>
     <rect x="130.68" y="139.51" width="32.61" height="115.49" fill="#7dc8c5"/>
     <rect x="97.62" y="139.5" width="65.67" height="115.49" fill="#9ed7f5"/>
     <rect x="128.2" y="139.51" width="35.1" height="46.42" fill="#52bdbe"/>
-    <text transform="translate(8.13 163.16) rotate(0.02) scale(0.83 1)" font-size="20.58" fill="#ecf6fc"  font-weight="700" letter-spacing="0.03em">57%</text>
-    <text transform="translate(131.54 157.5) rotate(0.02) scale(0.83 1)" font-size="14.35" fill="#fff"  font-weight="700" letter-spacing="0.02em">13%</text>
-    <text transform="translate(133.79 203.92) rotate(0.02) scale(0.83 1)" font-size="14.35" fill="#1b507b"  font-weight="700" letter-spacing="0.02em">30%</text>
+    <text transform="translate(8.13 163.16) rotate(0.02) scale(0.83 1)" font-size="20.58" fill="#ecf6fc" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.03em">57%</text>
+    <text transform="translate(131.54 157.5) rotate(0.02) scale(0.83 1)" font-size="14.35" fill="#fff" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">13%</text>
+    <text transform="translate(133.79 203.92) rotate(0.02) scale(0.83 1)" font-size="14.35" fill="#1b507b" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">30%</text>
   </g>
 </svg>

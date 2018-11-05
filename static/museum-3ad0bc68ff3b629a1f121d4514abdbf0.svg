@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 254">
-  
+  <title>museum</title>
   <g>
     <g>
       <rect x="22.41" y="44.75" width="127.28" height="60.17" fill="#1b507b"/>
@@ -68,11 +68,11 @@
       <line x1="4.78" y1="38.69" x2="171.1" y2="38.69" fill="none" stroke="#6186b6" stroke-miterlimit="10" stroke-width="1.05"/>
     </g>
     <line x1="56.4" y1="96.97" x2="122.06" y2="96.97" fill="none" stroke="#6186b6" stroke-miterlimit="10" stroke-width="1.05"/>
-    <polygon points="63.43 138.51 49.62 138.51 35.8 138.51 21.99 138.51 8.18 138.51 8.18 254 21.99 254 35.8 254 49.62 254 63.43 254 77.24 254 77.24 138.51 63.43 138.51" fill="#6186b6"/>
-    <text transform="translate(13.91 156.26) scale(0.83 1)" font-size="12.39" fill="#ecf6fc"  font-weight="700" letter-spacing="0.03em">10%</text>
-    <rect x="42.15" y="138.51" width="129.07" height="75.86" fill="#9ed7f5"/>
-    <text transform="translate(49 161.21) scale(0.83 1)" font-size="20.58" fill="#1b507b"  font-weight="700" letter-spacing="0.02em">30%</text>
+    <polygon points="35.78 138.51 28.88 138.51 21.98 138.51 15.08 138.51 8.18 138.51 8.18 254 15.08 254 21.98 254 28.88 254 35.78 254 42.68 254 42.68 138.51 35.78 138.51" fill="#6186b6"/>
+    <text transform="translate(13.91 156.26) scale(0.83 1)" font-size="12.39" fill="#ecf6fc" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.03em">10%</text>
+    <rect x="42.15" y="138.51" width="129.07" height="48.66" fill="#9ed7f5"/>
+    <text transform="translate(49 161.21) scale(0.83 1)" font-size="20.58" fill="#1b507b" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">30%</text>
     <rect x="42.15" y="187.2" width="129.07" height="66.8" fill="#52bdbe"/>
-    <text transform="translate(49 209.9) scale(0.83 1)" font-size="20.58" fill="#fff"  font-weight="700" letter-spacing="0.02em">60%</text>
+    <text transform="translate(49 209.9) scale(0.83 1)" font-size="20.58" fill="#fff" font-family="Helvetica-Bold, Helvetica Bold" font-weight="700" letter-spacing="0.02em">60%</text>
   </g>
 </svg>
