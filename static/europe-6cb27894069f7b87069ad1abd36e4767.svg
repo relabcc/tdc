@@ -790,10 +790,10 @@
         <line x1="342.12" y1="694.99" x2="342.12" y2="716.94" fill="none" stroke="#e7f0f2" stroke-miterlimit="10" stroke-width="0.55"/>
         <line x1="397.9" y1="694.99" x2="397.9" y2="716.94" fill="none" stroke="#e7f0f2" stroke-miterlimit="10" stroke-width="0.55"/>
         <line x1="449.24" y1="694.99" x2="449.24" y2="716.94" fill="none" stroke="#e7f0f2" stroke-miterlimit="10" stroke-width="0.55"/>
-        <text transform="translate(300.88 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2015</text>
-        <text transform="translate(348.7 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2016</text>
-        <text transform="translate(403.68 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2017</text>
-        <text transform="translate(455.92 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2018</text>
+        <text transform="translate(300.88 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2012</text>
+        <text transform="translate(348.7 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2013</text>
+        <text transform="translate(403.68 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2014</text>
+        <text transform="translate(455.92 710.89) scale(0.83 1)" font-size="13.29" fill="#e7f0f4"  font-weight="700">2015</text>
         <text transform="translate(346.81 736.98)" font-size="13.69" fill="#e7f0f4"  letter-spacing="0.1em">巴黎家具家飾展</text>
       </g>
     </g>
